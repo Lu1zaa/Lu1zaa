@@ -5,4 +5,5 @@
 ✏️ currently working on my website</br>
 
 
-[!Luiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lu1zaa&show_icons=true&theme=radical)]
+[![Luiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lu1zaa&show_icons=true&theme=radical)](https://github.com/Lu1zaa)
+
